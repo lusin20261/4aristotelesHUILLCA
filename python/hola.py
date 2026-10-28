@@ -1,0 +1,5 @@
+print("----------Practica----------------------")
+a =input("Mi nombre es:")
+b=input("MI comida favorita es:") 
+c=input("Mi mama se llama :") 
+print("Hola me llamo",a,"mi comida favorita es",b, "y mi mama se llama",c,"gracias." )                                                     
