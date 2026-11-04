@@ -1,0 +1,11 @@
+a=input("Ingresa tu nombre:")
+b=input("Ingresa tu edad:")
+c=input(" Ingresa tu comida favorita:")
+d=input("ingresa tu deporte favorito:")
+e=input("Ingresa tu animal favorito:")
+print("Hola",a)
+print("Tienes",b,"años que bueno.")
+print("A mi tambien me gusta",c,"es muy rico.")
+print("Mi deportivo favorito tambien es el",d)
+print("Mi animal tambien es el",e)
+
